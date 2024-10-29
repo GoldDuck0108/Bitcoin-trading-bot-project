@@ -1,0 +1,12 @@
+python-dotenv
+pyupbit
+pandas
+openai
+ta
+selenium
+webdriver-manager
+Pillow
+youtube-transcript-api
+streamlit
+plotly
+schedule
